@@ -3,7 +3,7 @@ import axios from "axios";
 
 // Create an instance of axios
 const axiosInstance = axios.create({
-  baseURL: "https://forum-back-2.onrender.com", // Update with your base URL
+  baseURL: "https://forum-back-3.onrender.com/", // Update with your base URL
 });
 
 // Request interceptor to include token in headers
